@@ -1,6 +1,6 @@
 Feature: Compatibilidad multidispositivo  
   Como usuario  
-  quiero visualizar mis fotografías correctamente desde computadora, tablet 		o celular  
+  quiero visualizar mis fotografías correctamente desde computadora, tablet o celular  
   para acceder a mi portafolio desde cualquier dispositivo.  
   Scenario Outline: Visualización correcta según dispositivo  
     Given que el usuario accede a FotoNativa desde un dispositivo 
