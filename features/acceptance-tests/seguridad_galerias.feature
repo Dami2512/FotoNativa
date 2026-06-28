@@ -1,6 +1,6 @@
 Feature: Seguridad en galerías privadas  
   Como fotógrafo  
-  quiero que mis galerías privadas estén protegidas mediante enlaces únicos 	y control de acceso  
+  quiero que mis galerías privadas estén protegidas mediante enlaces únicos y control de acceso  
   para evitar visualizaciones no autorizadas.  
   
   Scenario: Bloqueo de acceso a usuario no autorizado  
